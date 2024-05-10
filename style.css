@@ -1,0 +1,21 @@
+
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #e2edff;
+}
+
+#owner {
+  background-color: #e2edff;
+}
+
+.finance {
+  background-color: #ffff;
+}
+
+#manager.M {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
